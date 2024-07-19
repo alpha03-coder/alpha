@@ -1,16 +1,18 @@
 <h1 align="center">Your simple developer ⚡️</h1>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header"/>
+</p>
+
 ## 🙋‍♂️ About Me
 
 🌱 I’m currently **improving my skills**
 
-👯 Playing with **open source projects**
+🤝 I’m looking to collaborate on Frontend Projects
 
-👨‍💻 All of my projects are available on **[my portfolio](https://www.blessingolaleye.xyz)**
+👨‍💻 All of my projects are available on **[coming soon]**
 
-📫 Reach me **olaleyedev@gmail.com**
-
-⚡ Read **my articles** on [https://blog.blessingolaleye.xyz/](https://blog.blessingolaleye.xyz/)
+📫 Reach me **alphaweb03@gmail.com**
 
 <!-- 👷 Current looking for full-time work(**frontend**) -->
 
@@ -20,16 +22,19 @@
 
 ## 🚀 Languages and tools I am familiar with or use:
 
-![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white) ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white) ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 
 ## 📘 Currently Learning:
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-4B275F?style=for-the-badge&logo=nodejs&logoColor=white)
 
 
 ## ❤ Connect with me:
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/itsakraj"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
